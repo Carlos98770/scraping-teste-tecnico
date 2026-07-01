@@ -4,6 +4,8 @@ Pipeline **ETL (Extract → Transform → Load)** para coleta, tratamento e aná
 
 ---
 
+## Autor:  Carlos Eduardo Medeiros da Silva
+
 ## Visão Geral
 
 | Etapa | Tecnologia | Saída |
