@@ -96,8 +96,9 @@ desafio-etl/
 **1. Clone o repositório**
 
 ```bash
-git clone <url-do-repositorio>
-cd tl
+git clone https://github.com/Carlos98770/scraping-teste-tecnico
+cd scraping-teste-tecnico
+
 ```
 
 **2. Crie e ative o ambiente virtual**
